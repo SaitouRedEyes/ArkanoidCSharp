@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Arkanoid.Ball" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAgAAAiAAAgAQAAAAAAAAAUAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Block" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAgAAAAAAEAAAABAAAEAAAAAAAAAABAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.BlockManager" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAQAAAAAABAQ=</HashCode>
+      <FileName>BlockManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Game" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABAAACRAAAAAAACAAAACAAAAAAAAAAAARAAAAQA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.GameOver" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAAgAAAAAIAAAAAAAAABAAAAAAAAAAIAA=</HashCode>
+      <FileName>GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Http" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Http.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Level" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAQAAAAAAgAAAIAIAAAAAAAAABABAAAAAAAQIAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Menu" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAIAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Player" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAgAAAAAAAEAAAAAAAUABAAAACAQIAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Scene" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.SceneManager" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABABAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Score" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAgAAAgAAAAAAAIAABABAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Properties.Resources" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Arkanoid.Properties.Settings" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
